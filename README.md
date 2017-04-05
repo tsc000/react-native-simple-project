@@ -35,3 +35,7 @@
     效果图：
 
 ![运行图](https://github.com/tsc000/react-native-simple-project/blob/master/TabNavigatorDemo/RN.gif)
+
+##简书
+
+###[简书地址](http://www.jianshu.com/p/b63a56860f32)
