@@ -1,2 +1,2 @@
 # react-native-simple-project
-这只是搭了一个简单的工程
+一个简单的工程(只为展示基本的写法)
