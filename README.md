@@ -34,4 +34,4 @@
     
     效果图：
 
-![运行图](https://github.com/tsc000/react-native-simple-project/tree/master/TabNavigatorDemo/RN.gif)
+![运行图](https://github.com/tsc000/react-native-simple-project/blob/master/TabNavigatorDemo/RN.gif)
